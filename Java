@@ -1,0 +1,15 @@
+Global logic
+1. which data structure map follow
+2. why we use RESTful Api
+
+Zensar
+1. What is diff between String , String Builder, String Buffer
+2. what is oops
+3. what is method overloading and method overriding
+4. diff between RestController and Controller
+4. how many type we can return from controller
+5. How many type of IOC container
+6. How to achieve abstraction
+7. Serialize vs de-serializer
+coding -- Nearest smaller element in sorted array
+
