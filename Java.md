@@ -13,4 +13,4 @@ Zensar
 8. How to achieve abstraction
 9. Serialize vs de-serializer
 10. coding -- Nearest smaller element in sorted array
-
+12. 
