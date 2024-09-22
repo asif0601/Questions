@@ -14,3 +14,8 @@ Zensar
 9. Serialize vs de-serializer
 10. coding -- Nearest smaller element in sorted array
 11. feature-x
+
+Payoda
+1. If database is taking too much time to response the data then how to deal with this
+2. Innheritance vs composition
+3. Singleton design pattern ( volatile keyword use)
