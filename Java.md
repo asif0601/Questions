@@ -20,3 +20,4 @@ Payoda
 2. Innheritance vs composition
 3. Singleton design pattern ( volatile keyword use)
 4. 2 coding questions
+5. Hashing question find the incoming and outgoing edges in graph
